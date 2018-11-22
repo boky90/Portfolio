@@ -1,5 +1,6 @@
 <?php
 	// GET integer size of two armies from URL	
+	// ?army1=50&army2=48 is the suffix used at the end of URL
 	$army1Size = $_GET['army1'];
 	$army2Size = $_GET['army2'];
 	
